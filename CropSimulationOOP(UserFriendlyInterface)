@@ -123,12 +123,21 @@ def manage_crop(crop):
         elif option == 2:
             auto_grow(crop, 30)
             print()
-        
+        elif option == 3:
+            print(crop.report())
+            print()
+        elif option == 0:
+            noexit = False
+    print("thank you for using the crop management program. ")
+
+def main():
+    new_crop = crop(1,4,3)
+    manage_crop(new_crop)
 
 if __name__ == "__main__":
     main()
 
 
 
-"""http://pythonschool.net/oop/testing-the-functionality-of-the-class/"""
+"""http://pythonschool.net/oop/inheritance-and-polymorphism/"""
 #further methods video
