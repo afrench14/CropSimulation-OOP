@@ -1,2 +1,1 @@
-# ObjectOriented
-this project is my object oriented code throught my Alevel portion in college.
+My object oriented code based on a crop simulation through an a level module in college.

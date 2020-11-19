@@ -60,7 +60,7 @@ def manual_grow(crop):
     while not valid:
         try:
             light = int(input("please enter a light value (1-10): ")
-            if light >= 1 and light <= 10:
+            if 1 <= light <= 10:
                 valid = True
             else:
                 print("value entered not valid, enter a value (1-10): ")
