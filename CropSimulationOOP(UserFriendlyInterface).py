@@ -22,7 +22,7 @@ class Crop:
         return {"light need " : self._light_needed, "water need " : self._water_needed }
 
     def report(self):
-        #returns a dicionary containing the type, status, growth and days growing of the plant
+        #returns a dicionary containing the type, status, growth and days growing of the plant in a dictionary
         return {"type " : self._type, "status " : self._status, "growth " : self._growth, "days growing" : self._days_growing}
 
     def _update_status(self):
