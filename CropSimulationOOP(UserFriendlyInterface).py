@@ -136,8 +136,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-"""http://pythonschool.net/oop/inheritance-and-polymorphism/"""
-#further methods video
+    
