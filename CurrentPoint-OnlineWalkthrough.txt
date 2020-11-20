@@ -1,3 +1,3 @@
 http://pythonschool.net/oop/inheritance-and-polymorphism/
 further methods video, watch and code more on a newly created 'CropSimulationOOP(Polymorphism)' file
-dont forget to ush to git repository
+dont forget to push to git repository

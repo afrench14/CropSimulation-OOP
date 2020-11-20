@@ -90,8 +90,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-"""http://pythonschool.net/oop/adding-methods-to-our-class/"""
-#further methods video
