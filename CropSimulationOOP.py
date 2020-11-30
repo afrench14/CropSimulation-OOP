@@ -1,5 +1,6 @@
 import random
 
+setCycle = random.randint(1,10)
 
 class Crop:
     '''a generic crop'''
